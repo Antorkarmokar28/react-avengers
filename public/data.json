@@ -1,0 +1,43 @@
+[
+    {
+      "id": 1,
+      "name": "John Doe",
+      "image": "https://i.ibb.co/FwFprGW/man-593372-1280.jpg",
+      "role": "Director",
+      "country": "United States",
+      "salary": 8000,
+      "fbUrl": "https://facebook.com/johndoe",
+      "twitterUrl": "https://twitter.com/johndoe"
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "image": "https://i.ibb.co/FDtdRNg/entrepreneur-593371-1280.jpg",
+      "role": "Singer",
+      "country": "Canada",
+      "salary": 9000,
+      "fbUrl": "https://facebook.com/janesmith",
+      "twitterUrl": "https://twitter.com/janesmith"
+    },
+    {
+      "id": 3,
+      "name": "Alice Johnson",
+      "image": "https://i.ibb.co/PZjnc5c/adult-1851571-1280.jpg",
+      "role": "Hero Actor",
+      "country": "United Kingdom",
+      "salary": 7500,
+      "fbUrl": "https://facebook.com/alicejohnson",
+      "twitterUrl": "https://twitter.com/alicejohnson"
+    },
+    {
+      "id": 4,
+      "name": "Bob Williams",
+      "image": "https://i.ibb.co/4T2wrqQ/asian-man-1468032-1280.jpg",
+      "role": "Heroin Actor",
+      "country": "Australia",
+      "salary": 8500,
+      "fbUrl": "https://facebook.com/bobwilliams",
+      "twitterUrl": "https://twitter.com/bobwilliams"
+    }
+  ]
+  
